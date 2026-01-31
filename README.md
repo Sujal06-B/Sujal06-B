@@ -1,5 +1,5 @@
 ﻿<div align="center">
-<img src="./Gemini_Generated_Image_6bs8eq6bs8eq6bs8.png" width="100%" height="250" style="border-radius: 12px; object-fit: cover;" />
+<img src="./devops-banner.png" width="100%" height="250" style="border-radius: 12px; object-fit: cover;" />
 <br/>
 <img src="https://github.com/sujal06-b.png" width="150" height="150" style="border-radius: 50%; border: 5px solid white; margin-top: -75px;" />
 <h1>Hi, I'm Sujal Bolke 👋</h1>
@@ -65,4 +65,5 @@ All of my projects are available at:<br/>
 <br/>
 
  
+
 
