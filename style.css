@@ -161,23 +161,11 @@ body {
 }
 
 /* Footer */
-.stats-footer {
+.footer-note {
     text-align: center;
     margin-top: 3rem;
     padding-top: 2rem;
     border-top: 1px dashed var(--border);
-}
-
-.stats-grid {
-    display: flex;
-    justify-content: center;
-    gap: 1rem;
-    flex-wrap: wrap;
-}
-
-.stats-grid img {
-    height: 160px; /* Constrain height for uniform look */
-    width: auto;
 }
 
 /* Responsive */
